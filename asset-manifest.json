@@ -1,14 +1,14 @@
 {
-  "main.css": "/Booster/static/css/main.98039485.chunk.css",
-  "main.js": "/Booster/static/js/main.d0b187f9.chunk.js",
-  "main.js.map": "/Booster/static/js/main.d0b187f9.chunk.js.map",
-  "runtime~main.js": "/Booster/static/js/runtime~main.4595a990.js",
-  "runtime~main.js.map": "/Booster/static/js/runtime~main.4595a990.js.map",
-  "static/js/2.4f057907.chunk.js": "/Booster/static/js/2.4f057907.chunk.js",
-  "static/js/2.4f057907.chunk.js.map": "/Booster/static/js/2.4f057907.chunk.js.map",
-  "index.html": "/Booster/index.html",
-  "precache-manifest.47fa6d277754c668fdb9062f29bd2ad4.js": "/Booster/precache-manifest.47fa6d277754c668fdb9062f29bd2ad4.js",
-  "service-worker.js": "/Booster/service-worker.js",
-  "static/css/main.98039485.chunk.css.map": "/Booster/static/css/main.98039485.chunk.css.map",
-  "static/media/logo.svg": "/Booster/static/media/logo.5d5d9eef.svg"
+  "main.css": "/tortoise/static/css/main.98039485.chunk.css",
+  "main.js": "/tortoise/static/js/main.b2d11a46.chunk.js",
+  "main.js.map": "/tortoise/static/js/main.b2d11a46.chunk.js.map",
+  "runtime~main.js": "/tortoise/static/js/runtime~main.9f2a5030.js",
+  "runtime~main.js.map": "/tortoise/static/js/runtime~main.9f2a5030.js.map",
+  "static/js/2.4f057907.chunk.js": "/tortoise/static/js/2.4f057907.chunk.js",
+  "static/js/2.4f057907.chunk.js.map": "/tortoise/static/js/2.4f057907.chunk.js.map",
+  "index.html": "/tortoise/index.html",
+  "precache-manifest.7523ab7aae1f0b622328c3e677683283.js": "/tortoise/precache-manifest.7523ab7aae1f0b622328c3e677683283.js",
+  "service-worker.js": "/tortoise/service-worker.js",
+  "static/css/main.98039485.chunk.css.map": "/tortoise/static/css/main.98039485.chunk.css.map",
+  "static/media/logo.svg": "/tortoise/static/media/logo.5d5d9eef.svg"
 }
