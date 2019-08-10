@@ -1,26 +1,46 @@
-import React from 'react';
-import logo from './logo.svg';
+ import React from 'react';
+/*import logo from './logo.svg';
 import './App.css';
+ */
+import {Toolbar} from 'primereact/toolbar';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export class ToolbarDemo extends Component {
+
+  constructor() {
+      super();
+      this.state = {};
+  }
+
+  render() {
+      return (
+          <div>
+              <div className="content-section">
+                  <div className="feature-intro">
+                      <h1>Toolbar</h1>
+                      <p>Toolbar is a grouping component for buttons and other content.</p>
+                  </div>
+              </div>
+              <div className="content-section implementation">
+                  <Toolbar>
+                      <div className="p-toolbar-group-left">
+                          <Button label="New" icon="pi pi-plus" style={{marginRight:'.25em'}} />
+                          <Button label="Upload" icon="pi pi-upload" className="p-button-success" />
+                          <i className="pi pi-bars p-toolbar-separator" style={{marginRight:'.25em'}} />
+                          <Button label="Save" icon="pi pi-check" className="p-button-warning" />
+                      </div>
+                      <div className="p-toolbar-group-right">
+                          <Button icon="pi pi-search" style={{marginRight:'.25em'}} />
+                          <Button icon="pi pi-calendar" className="p-button-success" style={{marginRight:'.25em'}} />
+                          <Button icon="pi pi-times" className="p-button-danger" />
+                      </div>
+                  </Toolbar>
+              </div>
+
+              <ToolbarDoc/>
+
+          </div>
+      );
+  }
 }
 
-export default App;
+export default ToolbarDemo;
