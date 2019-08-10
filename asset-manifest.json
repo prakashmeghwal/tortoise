@@ -1,14 +1,18 @@
 {
   "main.css": "/tortoise/static/css/main.98039485.chunk.css",
-  "main.js": "/tortoise/static/js/main.b2d11a46.chunk.js",
-  "main.js.map": "/tortoise/static/js/main.b2d11a46.chunk.js.map",
+  "main.js": "/tortoise/static/js/main.8162ae26.chunk.js",
+  "main.js.map": "/tortoise/static/js/main.8162ae26.chunk.js.map",
   "runtime~main.js": "/tortoise/static/js/runtime~main.9f2a5030.js",
   "runtime~main.js.map": "/tortoise/static/js/runtime~main.9f2a5030.js.map",
-  "static/js/2.4f057907.chunk.js": "/tortoise/static/js/2.4f057907.chunk.js",
-  "static/js/2.4f057907.chunk.js.map": "/tortoise/static/js/2.4f057907.chunk.js.map",
+  "static/css/2.c6e66465.chunk.css": "/tortoise/static/css/2.c6e66465.chunk.css",
+  "static/js/2.8322fc36.chunk.js": "/tortoise/static/js/2.8322fc36.chunk.js",
+  "static/js/2.8322fc36.chunk.js.map": "/tortoise/static/js/2.8322fc36.chunk.js.map",
   "index.html": "/tortoise/index.html",
-  "precache-manifest.7523ab7aae1f0b622328c3e677683283.js": "/tortoise/precache-manifest.7523ab7aae1f0b622328c3e677683283.js",
+  "precache-manifest.c32e49ebcbffae9e16af10655af3eadf.js": "/tortoise/precache-manifest.c32e49ebcbffae9e16af10655af3eadf.js",
   "service-worker.js": "/tortoise/service-worker.js",
+  "static/css/2.c6e66465.chunk.css.map": "/tortoise/static/css/2.c6e66465.chunk.css.map",
   "static/css/main.98039485.chunk.css.map": "/tortoise/static/css/main.98039485.chunk.css.map",
-  "static/media/logo.svg": "/tortoise/static/media/logo.5d5d9eef.svg"
+  "static/media/primereact.min.css": "/tortoise/static/media/line.567f5738.gif",
+  "static/media/theme.css": "/tortoise/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+  "static/media/primeicons.css": "/tortoise/static/media/primeicons.e5e0e944.svg"
 }
