@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default ToolbarDemo;
+export default App;
