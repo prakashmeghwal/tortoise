@@ -1,19 +1,14 @@
-import {Toolbar} from 'primereact/toolbar';
-import {Button} from 'primereact/button';
+import { Toolbar } from "primereact/toolbar";
+import { Button } from "primereact/button";
 import React from "react";
+import "../Layouts/Main.scss";
 
 class ToolBarcustom extends React.Component {
   render() {
     return (
       <Toolbar>
-        <div className="p-toolbar-group-right">
-          <Button icon="pi pi-search" style={{ marginRight: ".25em" }} />
-          <Button
-            icon="pi pi-calendar"
-            className="p-button-success"
-            style={{ marginRight: ".25em" }}
-          />
-          <Button icon="pi pi-times" className="p-button-danger" />
+        <div className="topToolBar p-toolbar">
+          <Button icon="pi pi-bars" onClick={this.props.onButtonClick} />
         </div>
       </Toolbar>
     );

@@ -34,8 +34,7 @@ class FullCalendarDemo extends Component {
 
   render() {
     let style = {
-      width: '500px',
-      height: '600px'
+      padding: "20px"
     };
     return (
       <div>
