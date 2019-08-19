@@ -8,7 +8,7 @@ class Main extends Component {
     this.state = {};
 
     this.state = {
-      visibleLeft: false
+      visibleLeft: true
     };
     this.onButtonClick = this.onButtonClick.bind(this);
   }
