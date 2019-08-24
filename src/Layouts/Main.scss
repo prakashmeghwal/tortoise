@@ -1,8 +1,53 @@
-.topToolBar {
-    &.p-toolbar{
-        border: none;
-        padding: 0px;
-        float: left;
-        background-color: #565bf1;
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: rgb(209, 209, 201);
+    height: -webkit-fill-available;
+}
+.topbar {
+    height: 50px;
+    width: 100%;
+    background: rgb(5, 155, 214);
+
+    ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+        color: white;
+        font-weight: bold;
+
+        li {
+            list-style: none;
+        }
     }
+
+}
+
+.hboxcls {
+    display: flex;
+    height: -webkit-fill-available;
+}
+
+.navigationMenuList {
+    padding: 5px;
+    max-width: 300px;
+    flex: 1 1 0;
+    background: rgb(13, 240, 134);
+
+    ul {
+        li {
+            color: white;
+            list-style: none;
+        }
+    }
+}
+.mainpanel-css{
+    flex: 1 1 0;
+}
+#root {
+    width: 100%;
+    height: -webkit-fill-available;
 }
