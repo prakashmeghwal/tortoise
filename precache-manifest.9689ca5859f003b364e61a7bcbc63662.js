@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/tortoise/static/media/open-sans-v15-latin-700.623e3205.woff"
   },
   {
-    "revision": "259f805bb24180b35165",
-    "url": "/tortoise/static/css/main.378bf9c2.chunk.css"
+    "revision": "2a3fcc75f28edac3cb44",
+    "url": "/tortoise/static/css/main.23916483.chunk.css"
   },
   {
     "revision": "fd2166d255a8cc9c4448",
@@ -16,28 +16,32 @@ self.__precacheManifest = [
     "url": "/tortoise/static/media/primeicons.e5e0e944.svg"
   },
   {
-    "revision": "f3f2c04f5531be051555",
-    "url": "/tortoise/static/js/2.5764a491.chunk.js"
-  },
-  {
-    "revision": "76b56857ebbae3a5a689f213feb11af0",
-    "url": "/tortoise/static/media/open-sans-v15-latin-300.76b56857.eot"
+    "revision": "92075f7bbbd2c791be89",
+    "url": "/tortoise/static/js/2.78d61461.chunk.js"
   },
   {
     "revision": "60c866748ff15f5b347fdba64596b1b1",
     "url": "/tortoise/static/media/open-sans-v15-latin-300.60c86674.woff2"
   },
   {
-    "revision": "cffb686d7d2f4682df8342bd4d276e09",
-    "url": "/tortoise/static/media/open-sans-v15-latin-regular.cffb686d.woff2"
+    "revision": "76b56857ebbae3a5a689f213feb11af0",
+    "url": "/tortoise/static/media/open-sans-v15-latin-300.76b56857.eot"
   },
   {
     "revision": "9dce7f01715340861bdb57318e2f3fdc",
     "url": "/tortoise/static/media/open-sans-v15-latin-regular.9dce7f01.eot"
   },
   {
+    "revision": "cffb686d7d2f4682df8342bd4d276e09",
+    "url": "/tortoise/static/media/open-sans-v15-latin-regular.cffb686d.woff2"
+  },
+  {
     "revision": "148a6749baa5f658a45183ddb5ee159f",
     "url": "/tortoise/static/media/open-sans-v15-latin-700.148a6749.eot"
+  },
+  {
+    "revision": "d08c09f2f169f4a6edbcf8b8d1636cb4",
+    "url": "/tortoise/static/media/open-sans-v15-latin-700.d08c09f2.woff2"
   },
   {
     "revision": "521d17bc9f3526c690e8ada6eee55bec",
@@ -48,20 +52,16 @@ self.__precacheManifest = [
     "url": "/tortoise/static/media/open-sans-v15-latin-regular.bf2d0783.woff"
   },
   {
-    "revision": "d08c09f2f169f4a6edbcf8b8d1636cb4",
-    "url": "/tortoise/static/media/open-sans-v15-latin-700.d08c09f2.woff2"
-  },
-  {
-    "revision": "259f805bb24180b35165",
-    "url": "/tortoise/static/js/main.9dcb77e2.chunk.js"
-  },
-  {
-    "revision": "c045b73d86803686f4cd1cc3f9ceba59",
-    "url": "/tortoise/static/media/open-sans-v15-latin-regular.c045b73d.ttf"
+    "revision": "2a3fcc75f28edac3cb44",
+    "url": "/tortoise/static/js/main.29f93cc3.chunk.js"
   },
   {
     "revision": "177cc92d2e8027712a8c1724abd272cd",
     "url": "/tortoise/static/media/open-sans-v15-latin-300.177cc92d.ttf"
+  },
+  {
+    "revision": "c045b73d86803686f4cd1cc3f9ceba59",
+    "url": "/tortoise/static/media/open-sans-v15-latin-regular.c045b73d.ttf"
   },
   {
     "revision": "7e08cc656863d52bcb5cd34805ac605b",
@@ -92,19 +92,19 @@ self.__precacheManifest = [
     "url": "/tortoise/static/media/primeicons.df0140f8.ttf"
   },
   {
-    "revision": "66ee0deb739ca71f0ecdc39d7c1b22cb",
-    "url": "/tortoise/static/media/primeicons.66ee0deb.woff"
-  },
-  {
     "revision": "2d2afb2719a1ee903e576e7c457daf81",
     "url": "/tortoise/static/media/primeicons.2d2afb27.eot"
   },
   {
-    "revision": "f3f2c04f5531be051555",
-    "url": "/tortoise/static/css/2.c6e66465.chunk.css"
+    "revision": "66ee0deb739ca71f0ecdc39d7c1b22cb",
+    "url": "/tortoise/static/media/primeicons.66ee0deb.woff"
   },
   {
-    "revision": "984947f4206fb3999c886af58f697a51",
+    "revision": "92075f7bbbd2c791be89",
+    "url": "/tortoise/static/css/2.85f7360d.chunk.css"
+  },
+  {
+    "revision": "bb872f09b1c6895c49a65ce46afcfd93",
     "url": "/tortoise/index.html"
   }
 ];
